@@ -6,6 +6,8 @@ public class Main {
 	{
 		
 		//Cross your fingers and hope it works.
+		
+		System.out.println("Hello, GitHub!");
 
 	}
 
