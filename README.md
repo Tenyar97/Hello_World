@@ -1,4 +1,4 @@
 Hello_World
 ===========
 
-Attempts to tame Git
+My attempts to tame Git. 
